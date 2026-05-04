@@ -231,4 +231,3 @@ networks:
   sandbox:
     name: sandbox-network
     driver: bridge
-    internal: true

@@ -1,0 +1,1934 @@
+{
+  "problem-000": {
+    "task_type": "product",
+    "products": [
+      {
+        "id": "p1",
+        "core_product": "waist bag",
+        "shop_id": null,
+        "product_attributes": [
+          {
+            "name": "brand",
+            "value": "hosport"
+          },
+          {
+            "name": "usage",
+            "value": "motorcycles"
+          }
+        ],
+        "price": {
+          "min": 180,
+          "max": 505,
+          "currency": "PHP"
+        },
+        "services": []
+      }
+    ],
+    "global_constraints": {
+      "same_shop_required": false,
+      "budget": {
+        "max": null,
+        "currency": null
+      },
+      "voucher": {
+        "type": null,
+        "min_spend": null,
+        "discount_value": null,
+        "discount_cap": null,
+        "scope": "unknown"
+      }
+    }
+  },
+  "problem-001": {
+    "task_type": "product",
+    "products": [
+      {
+        "id": "p1",
+        "core_product": "button flex",
+        "shop_id": null,
+        "product_attributes": [
+          {
+            "name": "type",
+            "value": "replacement"
+          },
+          {
+            "name": "color",
+            "value": "blue"
+          },
+          {
+            "name": "compatible_with",
+            "value": "Oppo A5S"
+          }
+        ],
+        "price": {
+          "min": null,
+          "max": null,
+          "currency": null
+        },
+        "services": []
+      }
+    ],
+    "global_constraints": {
+      "same_shop_required": false,
+      "budget": {
+        "max": null,
+        "currency": null
+      },
+      "voucher": {
+        "type": null,
+        "min_spend": null,
+        "discount_value": null,
+        "discount_cap": null,
+        "scope": "unknown"
+      }
+    }
+  },
+  "problem-002": {
+    "task_type": "product",
+    "products": [
+      {
+        "id": "p1",
+        "core_product": "headlight covers",
+        "shop_id": null,
+        "product_attributes": [],
+        "price": {
+          "min": 85,
+          "max": null,
+          "currency": "PHP"
+        },
+        "services": []
+      }
+    ],
+    "global_constraints": {
+      "same_shop_required": false,
+      "budget": {
+        "max": null,
+        "currency": null
+      },
+      "voucher": {
+        "type": null,
+        "min_spend": null,
+        "discount_value": null,
+        "discount_cap": null,
+        "scope": "unknown"
+      }
+    }
+  },
+  "problem-003": {
+    "task_type": "product",
+    "products": [
+      {
+        "id": "p1",
+        "core_product": "foam roller",
+        "shop_id": null,
+        "product_attributes": [
+          {
+            "name": "waterproof",
+            "value": "true"
+          },
+          {
+            "name": "category",
+            "value": "yoga"
+          }
+        ],
+        "price": {
+          "min": null,
+          "max": null,
+          "currency": null
+        },
+        "services": [
+          "flashsale"
+        ]
+      }
+    ],
+    "global_constraints": {
+      "same_shop_required": false,
+      "budget": {
+        "max": null,
+        "currency": null
+      },
+      "voucher": {
+        "type": null,
+        "min_spend": null,
+        "discount_value": null,
+        "discount_cap": null,
+        "scope": "unknown"
+      }
+    }
+  },
+  "problem-004": {
+    "task_type": "product",
+    "products": [
+      {
+        "id": "p1",
+        "core_product": "badminton nets",
+        "shop_id": null,
+        "product_attributes": [
+          {
+            "name": "pre_strung",
+            "value": "true"
+          }
+        ],
+        "price": {
+          "min": 1191,
+          "max": 2233,
+          "currency": "PHP"
+        },
+        "services": []
+      }
+    ],
+    "global_constraints": {
+      "same_shop_required": false,
+      "budget": {
+        "max": null,
+        "currency": null
+      },
+      "voucher": {
+        "type": null,
+        "min_spend": null,
+        "discount_value": null,
+        "discount_cap": null,
+        "scope": "unknown"
+      }
+    }
+  },
+  "problem-005": {
+    "task_type": "product",
+    "products": [
+      {
+        "id": "p1",
+        "core_product": "battery tester",
+        "shop_id": null,
+        "product_attributes": [
+          {
+            "name": "brand",
+            "value": "lancol"
+          }
+        ],
+        "price": {
+          "min": 1593,
+          "max": 3846,
+          "currency": "PHP"
+        },
+        "services": []
+      }
+    ],
+    "global_constraints": {
+      "same_shop_required": false,
+      "budget": {
+        "max": null,
+        "currency": null
+      },
+      "voucher": {
+        "type": null,
+        "min_spend": null,
+        "discount_value": null,
+        "discount_cap": null,
+        "scope": "unknown"
+      }
+    }
+  },
+  "problem-006": {
+    "task_type": "product",
+    "products": [
+      {
+        "id": "p1",
+        "core_product": "sponge pads",
+        "shop_id": null,
+        "product_attributes": [
+          {
+            "name": "usage",
+            "value": "car"
+          },
+          {
+            "name": "quantity",
+            "value": "10"
+          }
+        ],
+        "price": {
+          "min": 15,
+          "max": 37,
+          "currency": "PHP"
+        },
+        "services": []
+      }
+    ],
+    "global_constraints": {
+      "same_shop_required": false,
+      "budget": {
+        "max": null,
+        "currency": null
+      },
+      "voucher": {
+        "type": null,
+        "min_spend": null,
+        "discount_value": null,
+        "discount_cap": null,
+        "scope": "unknown"
+      }
+    }
+  },
+  "problem-007": {
+    "task_type": "product",
+    "products": [
+      {
+        "id": "p1",
+        "core_product": "calculator",
+        "shop_id": null,
+        "product_attributes": [
+          {
+            "name": "type",
+            "value": "basic"
+          },
+          {
+            "name": "color",
+            "value": "orange"
+          },
+          {
+            "name": "quantity",
+            "value": "1"
+          },
+          {
+            "name": "power_source",
+            "value": "batteries"
+          }
+        ],
+        "price": {
+          "min": 176,
+          "max": null,
+          "currency": "PHP"
+        },
+        "services": []
+      }
+    ],
+    "global_constraints": {
+      "same_shop_required": false,
+      "budget": {
+        "max": null,
+        "currency": null
+      },
+      "voucher": {
+        "type": null,
+        "min_spend": null,
+        "discount_value": null,
+        "discount_cap": null,
+        "scope": "unknown"
+      }
+    }
+  },
+  "problem-008": {
+    "task_type": "product",
+    "products": [
+      {
+        "id": "p1",
+        "core_product": "ballpoint pens",
+        "shop_id": null,
+        "product_attributes": [
+          {
+            "name": "tip_size",
+            "value": "0.5mm"
+          },
+          {
+            "name": "quantity",
+            "value": "10"
+          },
+          {
+            "name": "usage",
+            "value": "students and office use"
+          }
+        ],
+        "price": {
+          "min": null,
+          "max": null,
+          "currency": null
+        },
+        "services": []
+      }
+    ],
+    "global_constraints": {
+      "same_shop_required": false,
+      "budget": {
+        "max": null,
+        "currency": null
+      },
+      "voucher": {
+        "type": null,
+        "min_spend": null,
+        "discount_value": null,
+        "discount_cap": null,
+        "scope": "unknown"
+      }
+    }
+  },
+  "problem-009": {
+    "task_type": "product",
+    "products": [
+      {
+        "id": "p1",
+        "core_product": "garden light",
+        "shop_id": null,
+        "product_attributes": [
+          {
+            "name": "lighting_type",
+            "value": "LED daylight"
+          },
+          {
+            "name": "dimmable",
+            "value": "true"
+          }
+        ],
+        "price": {
+          "min": null,
+          "max": null,
+          "currency": null
+        },
+        "services": [
+          "COD"
+        ]
+      }
+    ],
+    "global_constraints": {
+      "same_shop_required": false,
+      "budget": {
+        "max": null,
+        "currency": null
+      },
+      "voucher": {
+        "type": null,
+        "min_spend": null,
+        "discount_value": null,
+        "discount_cap": null,
+        "scope": "unknown"
+      }
+    }
+  },
+  "problem-010": {
+    "task_type": "shop",
+    "products": [
+      {
+        "id": "p1",
+        "core_product": "hair brush",
+        "shop_id": null,
+        "product_attributes": [
+          {
+            "name": "material",
+            "value": "plastic"
+          },
+          {
+            "name": "style",
+            "value": "cartoon"
+          },
+          {
+            "name": "stones",
+            "value": "without"
+          }
+        ],
+        "price": {
+          "min": 6,
+          "max": null,
+          "currency": "PHP"
+        },
+        "services": [
+          "flashsale"
+        ]
+      },
+      {
+        "id": "p2",
+        "core_product": "wallet",
+        "shop_id": null,
+        "product_attributes": [
+          {
+            "name": "material",
+            "value": "polyester"
+          },
+          {
+            "name": "pattern",
+            "value": "cartoon"
+          },
+          {
+            "name": "color",
+            "value": "a"
+          }
+        ],
+        "price": {
+          "min": null,
+          "max": null,
+          "currency": null
+        },
+        "services": []
+      }
+    ],
+    "global_constraints": {
+      "same_shop_required": true,
+      "budget": {
+        "max": null,
+        "currency": null
+      },
+      "voucher": {
+        "type": null,
+        "min_spend": null,
+        "discount_value": null,
+        "discount_cap": null,
+        "scope": "unknown"
+      }
+    }
+  },
+  "problem-011": {
+    "task_type": "shop",
+    "products": [
+      {
+        "id": "p1",
+        "core_product": "face towels",
+        "shop_id": null,
+        "product_attributes": [
+          {
+            "name": "pattern",
+            "value": "patterned"
+          },
+          {
+            "name": "material",
+            "value": "Egyptian-quality cotton"
+          },
+          {
+            "name": "hypoallergenic",
+            "value": "true"
+          },
+          {
+            "name": "quick_drying",
+            "value": "true"
+          },
+          {
+            "name": "soft",
+            "value": "true"
+          }
+        ],
+        "price": {
+          "min": 17,
+          "max": 49,
+          "currency": "PHP"
+        },
+        "services": []
+      },
+      {
+        "id": "p2",
+        "core_product": "face towels",
+        "shop_id": null,
+        "product_attributes": [
+          {
+            "name": "pattern",
+            "value": "patterned"
+          },
+          {
+            "name": "material",
+            "value": "Egyptian-quality cotton"
+          },
+          {
+            "name": "hypoallergenic",
+            "value": "true"
+          },
+          {
+            "name": "quick_drying",
+            "value": "true"
+          },
+          {
+            "name": "soft",
+            "value": "true"
+          }
+        ],
+        "price": {
+          "min": 144,
+          "max": 189,
+          "currency": "PHP"
+        },
+        "services": []
+      }
+    ],
+    "global_constraints": {
+      "same_shop_required": true,
+      "budget": {
+        "max": null,
+        "currency": null
+      },
+      "voucher": {
+        "type": null,
+        "min_spend": null,
+        "discount_value": null,
+        "discount_cap": null,
+        "scope": "unknown"
+      }
+    }
+  },
+  "problem-012": {
+    "task_type": "shop",
+    "products": [
+      {
+        "id": "p1",
+        "core_product": "kitchen cabinet",
+        "shop_id": null,
+        "product_attributes": [
+          {
+            "name": "mount_type",
+            "value": "wall-mounted"
+          }
+        ],
+        "price": {
+          "min": 410,
+          "max": null,
+          "currency": "PHP"
+        },
+        "services": []
+      },
+      {
+        "id": "p2",
+        "core_product": "gaming laptop",
+        "shop_id": null,
+        "product_attributes": [
+          {
+            "name": "brand",
+            "value": "Intel"
+          },
+          {
+            "name": "screen_size",
+            "value": "14-inch"
+          },
+          {
+            "name": "version",
+            "value": "standard"
+          }
+        ],
+        "price": {
+          "min": 79,
+          "max": 1126,
+          "currency": "PHP"
+        },
+        "services": [
+          "official"
+        ]
+      }
+    ],
+    "global_constraints": {
+      "same_shop_required": true,
+      "budget": {
+        "max": null,
+        "currency": null
+      },
+      "voucher": {
+        "type": null,
+        "min_spend": null,
+        "discount_value": null,
+        "discount_cap": null,
+        "scope": "unknown"
+      }
+    }
+  },
+  "problem-013": {
+    "task_type": "shop",
+    "products": [
+      {
+        "id": "p1",
+        "core_product": "tote bag",
+        "shop_id": null,
+        "product_attributes": [
+          {
+            "name": "size",
+            "value": "large"
+          },
+          {
+            "name": "material",
+            "value": "canvas"
+          },
+          {
+            "name": "color",
+            "value": "as show"
+          },
+          {
+            "name": "pattern",
+            "value": "simple"
+          }
+        ],
+        "price": {
+          "min": 139,
+          "max": 239,
+          "currency": "PHP"
+        },
+        "services": [
+          "freeShipping"
+        ]
+      },
+      {
+        "id": "p2",
+        "core_product": "magic toy",
+        "shop_id": null,
+        "product_attributes": [],
+        "price": {
+          "min": 14,
+          "max": null,
+          "currency": "PHP"
+        },
+        "services": [
+          "official"
+        ]
+      }
+    ],
+    "global_constraints": {
+      "same_shop_required": true,
+      "budget": {
+        "max": null,
+        "currency": null
+      },
+      "voucher": {
+        "type": null,
+        "min_spend": null,
+        "discount_value": null,
+        "discount_cap": null,
+        "scope": "unknown"
+      }
+    }
+  },
+  "problem-014": {
+    "task_type": "shop",
+    "products": [
+      {
+        "id": "p1",
+        "core_product": "pot holder",
+        "shop_id": null,
+        "product_attributes": [
+          {
+            "name": "color",
+            "value": "yellow"
+          },
+          {
+            "name": "material",
+            "value": "silicone"
+          },
+          {
+            "name": "usage",
+            "value": "pans"
+          }
+        ],
+        "price": {
+          "min": 64,
+          "max": null,
+          "currency": "PHP"
+        },
+        "services": [
+          "freeShipping"
+        ]
+      },
+      {
+        "id": "p2",
+        "core_product": "cup dispenser",
+        "shop_id": null,
+        "product_attributes": [
+          {
+            "name": "color",
+            "value": "gray"
+          },
+          {
+            "name": "component_type",
+            "value": "dispenser"
+          }
+        ],
+        "price": {
+          "min": 9,
+          "max": null,
+          "currency": "PHP"
+        },
+        "services": []
+      }
+    ],
+    "global_constraints": {
+      "same_shop_required": true,
+      "budget": {
+        "max": null,
+        "currency": null
+      },
+      "voucher": {
+        "type": null,
+        "min_spend": null,
+        "discount_value": null,
+        "discount_cap": null,
+        "scope": "unknown"
+      }
+    }
+  },
+  "problem-015": {
+    "task_type": "shop",
+    "products": [
+      {
+        "id": "p1",
+        "core_product": "headphones",
+        "shop_id": null,
+        "product_attributes": [
+          {
+            "name": "color",
+            "value": "silver"
+          },
+          {
+            "name": "driver_type",
+            "value": "dynamic"
+          },
+          {
+            "name": "input_voltage",
+            "value": "5v"
+          },
+          {
+            "name": "plug_type",
+            "value": "type c"
+          },
+          {
+            "name": "power_usage",
+            "value": "1-500"
+          }
+        ],
+        "price": {
+          "min": null,
+          "max": null,
+          "currency": null
+        },
+        "services": []
+      },
+      {
+        "id": "p2",
+        "core_product": "headphones",
+        "shop_id": null,
+        "product_attributes": [
+          {
+            "name": "noise_isolating",
+            "value": "true"
+          },
+          {
+            "name": "plug_type",
+            "value": "type c"
+          }
+        ],
+        "price": {
+          "min": 791,
+          "max": 1430,
+          "currency": "PHP"
+        },
+        "services": [
+          "official",
+          "flashsale"
+        ]
+      }
+    ],
+    "global_constraints": {
+      "same_shop_required": true,
+      "budget": {
+        "max": null,
+        "currency": null
+      },
+      "voucher": {
+        "type": null,
+        "min_spend": null,
+        "discount_value": null,
+        "discount_cap": null,
+        "scope": "unknown"
+      }
+    }
+  },
+  "problem-016": {
+    "task_type": "shop",
+    "products": [
+      {
+        "id": "p1",
+        "core_product": "vest",
+        "shop_id": null,
+        "product_attributes": [
+          {
+            "name": "gender",
+            "value": "men"
+          },
+          {
+            "name": "size",
+            "value": "5XL"
+          },
+          {
+            "name": "fit",
+            "value": "loose"
+          },
+          {
+            "name": "material",
+            "value": "lace"
+          }
+        ],
+        "price": {
+          "min": 101,
+          "max": 2042,
+          "currency": "PHP"
+        },
+        "services": [
+          "freeShipping"
+        ]
+      },
+      {
+        "id": "p2",
+        "core_product": "shirt",
+        "shop_id": null,
+        "product_attributes": [
+          {
+            "name": "sleeve_length",
+            "value": "short sleeve"
+          },
+          {
+            "name": "size",
+            "value": "S"
+          },
+          {
+            "name": "fit",
+            "value": "regular"
+          },
+          {
+            "name": "brand",
+            "value": "OEM"
+          }
+        ],
+        "price": {
+          "min": 428,
+          "max": null,
+          "currency": "PHP"
+        },
+        "services": []
+      }
+    ],
+    "global_constraints": {
+      "same_shop_required": true,
+      "budget": {
+        "max": null,
+        "currency": null
+      },
+      "voucher": {
+        "type": null,
+        "min_spend": null,
+        "discount_value": null,
+        "discount_cap": null,
+        "scope": "unknown"
+      }
+    }
+  },
+  "problem-017": {
+    "task_type": "shop",
+    "products": [
+      {
+        "id": "p1",
+        "core_product": "scooter",
+        "shop_id": null,
+        "product_attributes": [
+          {
+            "name": "brand",
+            "value": "Yamaha"
+          },
+          {
+            "name": "color",
+            "value": "black"
+          }
+        ],
+        "price": {
+          "min": 1513,
+          "max": null,
+          "currency": "PHP"
+        },
+        "services": []
+      },
+      {
+        "id": "p2",
+        "core_product": "scooter",
+        "shop_id": null,
+        "product_attributes": [
+          {
+            "name": "brand",
+            "value": "Yamaha"
+          },
+          {
+            "name": "color",
+            "value": "white"
+          }
+        ],
+        "price": {
+          "min": 1889,
+          "max": 3315,
+          "currency": "PHP"
+        },
+        "services": []
+      },
+      {
+        "id": "p3",
+        "core_product": "motorcycle",
+        "shop_id": null,
+        "product_attributes": [
+          {
+            "name": "brand",
+            "value": "Yamaha"
+          },
+          {
+            "name": "color",
+            "value": "black"
+          }
+        ],
+        "price": {
+          "min": 1383,
+          "max": null,
+          "currency": "PHP"
+        },
+        "services": []
+      }
+    ],
+    "global_constraints": {
+      "same_shop_required": true,
+      "budget": {
+        "max": null,
+        "currency": null
+      },
+      "voucher": {
+        "type": null,
+        "min_spend": null,
+        "discount_value": null,
+        "discount_cap": null,
+        "scope": "unknown"
+      }
+    }
+  },
+  "problem-018": {
+    "task_type": "shop",
+    "products": [
+      {
+        "id": "p1",
+        "core_product": "hair care product",
+        "shop_id": null,
+        "product_attributes": [
+          {
+            "name": "purpose",
+            "value": "color protection"
+          }
+        ],
+        "price": {
+          "min": 126,
+          "max": 210,
+          "currency": "PHP"
+        },
+        "services": []
+      },
+      {
+        "id": "p2",
+        "core_product": "hair dye",
+        "shop_id": null,
+        "product_attributes": [
+          {
+            "name": "type",
+            "value": "cream"
+          },
+          {
+            "name": "brand",
+            "value": "Bremod"
+          }
+        ],
+        "price": {
+          "min": 34,
+          "max": 111,
+          "currency": "PHP"
+        },
+        "services": [
+          "freeShipping"
+        ]
+      },
+      {
+        "id": "p3",
+        "core_product": "hair color set",
+        "shop_id": null,
+        "product_attributes": [
+          {
+            "name": "duration",
+            "value": "permanent"
+          }
+        ],
+        "price": {
+          "min": 8,
+          "max": null,
+          "currency": "PHP"
+        },
+        "services": []
+      }
+    ],
+    "global_constraints": {
+      "same_shop_required": true,
+      "budget": {
+        "max": null,
+        "currency": null
+      },
+      "voucher": {
+        "type": null,
+        "min_spend": null,
+        "discount_value": null,
+        "discount_cap": null,
+        "scope": "unknown"
+      }
+    }
+  },
+  "problem-019": {
+    "task_type": "shop",
+    "products": [
+      {
+        "id": "p1",
+        "core_product": "lip balm",
+        "shop_id": null,
+        "product_attributes": [
+          {
+            "name": "color_family",
+            "value": "trio"
+          },
+          {
+            "name": "market_segment",
+            "value": "mass market"
+          },
+          {
+            "name": "quantity",
+            "value": "1"
+          },
+          {
+            "name": "guaranteed_authenticity",
+            "value": "true"
+          },
+          {
+            "name": "easy_returns",
+            "value": "true"
+          },
+          {
+            "name": "fast_shipping",
+            "value": "true"
+          }
+        ],
+        "price": {
+          "min": 587,
+          "max": null,
+          "currency": "PHP"
+        },
+        "services": [
+          "official",
+          "freeShipping"
+        ]
+      },
+      {
+        "id": "p2",
+        "core_product": "gel mist",
+        "shop_id": null,
+        "product_attributes": [
+          {
+            "name": "effect",
+            "value": "soothing"
+          },
+          {
+            "name": "ingredient",
+            "value": "aloe vera"
+          },
+          {
+            "name": "skin_type",
+            "value": "oily"
+          },
+          {
+            "name": "series",
+            "value": "original"
+          },
+          {
+            "name": "size",
+            "value": "regular"
+          },
+          {
+            "name": "brand_origin",
+            "value": "Korean"
+          }
+        ],
+        "price": {
+          "min": null,
+          "max": null,
+          "currency": null
+        },
+        "services": []
+      },
+      {
+        "id": "p3",
+        "core_product": "hair oil",
+        "shop_id": null,
+        "product_attributes": [
+          {
+            "name": "volume",
+            "value": "20ml"
+          },
+          {
+            "name": "market_segment",
+            "value": "premium"
+          }
+        ],
+        "price": {
+          "min": 1586,
+          "max": null,
+          "currency": "PHP"
+        },
+        "services": []
+      }
+    ],
+    "global_constraints": {
+      "same_shop_required": true,
+      "budget": {
+        "max": null,
+        "currency": null
+      },
+      "voucher": {
+        "type": null,
+        "min_spend": null,
+        "discount_value": null,
+        "discount_cap": null,
+        "scope": "unknown"
+      }
+    }
+  },
+  "problem-020": {
+    "task_type": "voucher",
+    "products": [
+      {
+        "id": "p1",
+        "core_product": "processed cheese",
+        "shop_id": null,
+        "product_attributes": [
+          {
+            "name": "health_profile",
+            "value": "healthier choice"
+          }
+        ],
+        "price": {
+          "min": null,
+          "max": null,
+          "currency": null
+        },
+        "services": []
+      }
+    ],
+    "global_constraints": {
+      "same_shop_required": false,
+      "budget": {
+        "max": 82,
+        "currency": "PHP"
+      },
+      "voucher": {
+        "type": "percentage",
+        "min_spend": 63,
+        "discount_value": 34,
+        "discount_cap": 28,
+        "scope": "all_products"
+      }
+    }
+  },
+  "problem-021": {
+    "task_type": "voucher",
+    "products": [
+      {
+        "id": "p1",
+        "core_product": "cream",
+        "shop_id": null,
+        "product_attributes": [
+          {
+            "name": "skin_type",
+            "value": "oily"
+          },
+          {
+            "name": "quantity",
+            "value": "1"
+          },
+          {
+            "name": "size",
+            "value": "travel size"
+          }
+        ],
+        "price": {
+          "min": null,
+          "max": null,
+          "currency": null
+        },
+        "services": []
+      },
+      {
+        "id": "p2",
+        "core_product": "baby bowl",
+        "shop_id": null,
+        "product_attributes": [
+          {
+            "name": "color",
+            "value": "beige"
+          },
+          {
+            "name": "material",
+            "value": "silicone"
+          },
+          {
+            "name": "brand",
+            "value": "babypro"
+          }
+        ],
+        "price": {
+          "min": null,
+          "max": null,
+          "currency": null
+        },
+        "services": []
+      }
+    ],
+    "global_constraints": {
+      "same_shop_required": false,
+      "budget": {
+        "max": 235,
+        "currency": "PHP"
+      },
+      "voucher": {
+        "type": "fixed",
+        "min_spend": 121,
+        "discount_value": 49,
+        "discount_cap": null,
+        "scope": "all_products"
+      }
+    }
+  },
+  "problem-022": {
+    "task_type": "voucher",
+    "products": [
+      {
+        "id": "p1",
+        "core_product": "dog shampoo",
+        "shop_id": null,
+        "product_attributes": [
+          {
+            "name": "state",
+            "value": "dry"
+          }
+        ],
+        "price": {
+          "min": null,
+          "max": null,
+          "currency": null
+        },
+        "services": [
+          "freeShipping",
+          "flashsale"
+        ]
+      },
+      {
+        "id": "p2",
+        "core_product": "conditioner",
+        "shop_id": null,
+        "product_attributes": [
+          {
+            "name": "brand",
+            "value": "Kracie"
+          },
+          {
+            "name": "quantity",
+            "value": "1"
+          }
+        ],
+        "price": {
+          "min": null,
+          "max": null,
+          "currency": null
+        },
+        "services": []
+      }
+    ],
+    "global_constraints": {
+      "same_shop_required": false,
+      "budget": {
+        "max": 652,
+        "currency": "PHP"
+      },
+      "voucher": {
+        "type": "fixed",
+        "min_spend": 606,
+        "discount_value": 174,
+        "discount_cap": null,
+        "scope": "all_products"
+      }
+    }
+  },
+  "problem-023": {
+    "task_type": "voucher",
+    "products": [
+      {
+        "id": "p1",
+        "core_product": "phone case",
+        "shop_id": null,
+        "product_attributes": [
+          {
+            "name": "compatible_with",
+            "value": "oppo a16"
+          },
+          {
+            "name": "feature",
+            "value": "built-in stand"
+          }
+        ],
+        "price": {
+          "min": null,
+          "max": null,
+          "currency": null
+        },
+        "services": [
+          "COD"
+        ]
+      },
+      {
+        "id": "p2",
+        "core_product": "fishing lures",
+        "shop_id": null,
+        "product_attributes": [
+          {
+            "name": "size",
+            "value": "120mm"
+          }
+        ],
+        "price": {
+          "min": null,
+          "max": null,
+          "currency": null
+        },
+        "services": []
+      }
+    ],
+    "global_constraints": {
+      "same_shop_required": false,
+      "budget": {
+        "max": 606,
+        "currency": "PHP"
+      },
+      "voucher": {
+        "type": "fixed",
+        "min_spend": 167,
+        "discount_value": 56,
+        "discount_cap": null,
+        "scope": "all_products"
+      }
+    }
+  },
+  "problem-024": {
+    "task_type": "voucher",
+    "products": [
+      {
+        "id": "p1",
+        "core_product": "press-on nails",
+        "shop_id": null,
+        "product_attributes": [
+          {
+            "name": "color",
+            "value": "blush"
+          },
+          {
+            "name": "design",
+            "value": "floral"
+          }
+        ],
+        "price": {
+          "min": null,
+          "max": null,
+          "currency": null
+        },
+        "services": []
+      },
+      {
+        "id": "p2",
+        "core_product": "bike helmet",
+        "shop_id": null,
+        "product_attributes": [
+          {
+            "name": "weight",
+            "value": "lightweight"
+          },
+          {
+            "name": "size",
+            "value": "large"
+          }
+        ],
+        "price": {
+          "min": null,
+          "max": null,
+          "currency": null
+        },
+        "services": [
+          "COD"
+        ]
+      }
+    ],
+    "global_constraints": {
+      "same_shop_required": false,
+      "budget": {
+        "max": 1625,
+        "currency": "PHP"
+      },
+      "voucher": {
+        "type": "fixed",
+        "min_spend": 1394,
+        "discount_value": 190,
+        "discount_cap": null,
+        "scope": "all_products"
+      }
+    }
+  },
+  "problem-025": {
+    "task_type": "voucher",
+    "products": [
+      {
+        "id": "p1",
+        "core_product": "seat cushion pad",
+        "shop_id": null,
+        "product_attributes": [
+          {
+            "name": "thickness",
+            "value": "thick"
+          },
+          {
+            "name": "usage",
+            "value": "office or home chairs"
+          }
+        ],
+        "price": {
+          "min": null,
+          "max": null,
+          "currency": null
+        },
+        "services": []
+      }
+    ],
+    "global_constraints": {
+      "same_shop_required": false,
+      "budget": {
+        "max": 263,
+        "currency": "PHP"
+      },
+      "voucher": {
+        "type": "percentage",
+        "min_spend": 257,
+        "discount_value": 35,
+        "discount_cap": 172,
+        "scope": "all_products"
+      }
+    }
+  },
+  "problem-026": {
+    "task_type": "voucher",
+    "products": [
+      {
+        "id": "p1",
+        "core_product": "cigarette case",
+        "shop_id": null,
+        "product_attributes": [
+          {
+            "name": "color",
+            "value": "silver"
+          },
+          {
+            "name": "style",
+            "value": "2"
+          },
+          {
+            "name": "category",
+            "value": "rechargeable lighter"
+          }
+        ],
+        "price": {
+          "min": null,
+          "max": null,
+          "currency": null
+        },
+        "services": []
+      }
+    ],
+    "global_constraints": {
+      "same_shop_required": false,
+      "budget": {
+        "max": 209,
+        "currency": "PHP"
+      },
+      "voucher": {
+        "type": "percentage",
+        "min_spend": 22,
+        "discount_value": 23,
+        "discount_cap": 15,
+        "scope": "all_products"
+      }
+    }
+  },
+  "problem-027": {
+    "task_type": "voucher",
+    "products": [
+      {
+        "id": "p1",
+        "core_product": "tank cover",
+        "shop_id": null,
+        "product_attributes": [
+          {
+            "name": "power_source",
+            "value": "solar"
+          }
+        ],
+        "price": {
+          "min": null,
+          "max": null,
+          "currency": null
+        },
+        "services": []
+      },
+      {
+        "id": "p2",
+        "core_product": "casing bundle",
+        "shop_id": null,
+        "product_attributes": [
+          {
+            "name": "material",
+            "value": "ceramic"
+          }
+        ],
+        "price": {
+          "min": null,
+          "max": null,
+          "currency": null
+        },
+        "services": []
+      },
+      {
+        "id": "p3",
+        "core_product": "smartphone",
+        "shop_id": null,
+        "product_attributes": [
+          {
+            "name": "brand",
+            "value": "Nubia"
+          },
+          {
+            "name": "ram",
+            "value": "16GB"
+          },
+          {
+            "name": "storage",
+            "value": "512GB"
+          },
+          {
+            "name": "color",
+            "value": "black"
+          },
+          {
+            "name": "display",
+            "value": "1.5k"
+          }
+        ],
+        "price": {
+          "min": null,
+          "max": null,
+          "currency": null
+        },
+        "services": [
+          "flashsale"
+        ]
+      },
+      {
+        "id": "p4",
+        "core_product": "tote bag",
+        "shop_id": null,
+        "product_attributes": [
+          {
+            "name": "size",
+            "value": "large"
+          },
+          {
+            "name": "color",
+            "value": "blue"
+          },
+          {
+            "name": "material",
+            "value": "cotton-linen"
+          },
+          {
+            "name": "gender",
+            "value": "women"
+          }
+        ],
+        "price": {
+          "min": null,
+          "max": null,
+          "currency": null
+        },
+        "services": [
+          "freeShipping"
+        ]
+      }
+    ],
+    "global_constraints": {
+      "same_shop_required": false,
+      "budget": {
+        "max": 36407,
+        "currency": "PHP"
+      },
+      "voucher": {
+        "type": "fixed",
+        "min_spend": 14308,
+        "discount_value": 4107,
+        "discount_cap": null,
+        "scope": "all_products"
+      }
+    }
+  },
+  "problem-028": {
+    "task_type": "voucher",
+    "products": [
+      {
+        "id": "p1",
+        "core_product": "shorts",
+        "shop_id": null,
+        "product_attributes": [
+          {
+            "name": "color",
+            "value": "black"
+          },
+          {
+            "name": "size",
+            "value": "large"
+          },
+          {
+            "name": "usage",
+            "value": "sports or beach"
+          }
+        ],
+        "price": {
+          "min": null,
+          "max": null,
+          "currency": null
+        },
+        "services": []
+      },
+      {
+        "id": "p2",
+        "core_product": "cleaning brushes",
+        "shop_id": null,
+        "product_attributes": [
+          {
+            "name": "quantity",
+            "value": "2"
+          },
+          {
+            "name": "color",
+            "value": "2pcs a"
+          },
+          {
+            "name": "material",
+            "value": "plastic"
+          },
+          {
+            "name": "brand",
+            "value": "Bincoo"
+          },
+          {
+            "name": "usage",
+            "value": "coffee filters"
+          }
+        ],
+        "price": {
+          "min": null,
+          "max": null,
+          "currency": null
+        },
+        "services": []
+      }
+    ],
+    "global_constraints": {
+      "same_shop_required": false,
+      "budget": {
+        "max": 295,
+        "currency": "PHP"
+      },
+      "voucher": {
+        "type": "percentage",
+        "min_spend": 267,
+        "discount_value": 20,
+        "discount_cap": 147,
+        "scope": "all_products"
+      }
+    }
+  },
+  "problem-029": {
+    "task_type": "voucher",
+    "products": [
+      {
+        "id": "p1",
+        "core_product": "smartphone",
+        "shop_id": null,
+        "product_attributes": [
+          {
+            "name": "brand",
+            "value": "Realme"
+          },
+          {
+            "name": "color",
+            "value": "pearl white"
+          },
+          {
+            "name": "os",
+            "value": "Android"
+          },
+          {
+            "name": "battery",
+            "value": "6000 mAh"
+          },
+          {
+            "name": "rear_camera",
+            "value": "50 MP"
+          },
+          {
+            "name": "gps",
+            "value": "true"
+          },
+          {
+            "name": "ram",
+            "value": "12GB"
+          },
+          {
+            "name": "charging",
+            "value": "Type C"
+          },
+          {
+            "name": "front_camera",
+            "value": "32 MP"
+          },
+          {
+            "name": "display",
+            "value": "OLED"
+          }
+        ],
+        "price": {
+          "min": null,
+          "max": null,
+          "currency": null
+        },
+        "services": []
+      },
+      {
+        "id": "p2",
+        "core_product": "smartphone",
+        "shop_id": null,
+        "product_attributes": [
+          {
+            "name": "brand",
+            "value": "Infinix"
+          },
+          {
+            "name": "color",
+            "value": "gold"
+          },
+          {
+            "name": "os",
+            "value": "Android"
+          },
+          {
+            "name": "screen_size",
+            "value": "6.7-inch"
+          },
+          {
+            "name": "network",
+            "value": "4G"
+          },
+          {
+            "name": "video",
+            "value": "1080p"
+          },
+          {
+            "name": "rear_camera",
+            "value": "13 MP single"
+          },
+          {
+            "name": "gps",
+            "value": "true"
+          },
+          {
+            "name": "sim",
+            "value": "dual SIM"
+          },
+          {
+            "name": "display",
+            "value": "IPS LCD"
+          }
+        ],
+        "price": {
+          "min": null,
+          "max": null,
+          "currency": null
+        },
+        "services": []
+      },
+      {
+        "id": "p3",
+        "core_product": "smartphone",
+        "shop_id": null,
+        "product_attributes": [
+          {
+            "name": "brand",
+            "value": "Infinix"
+          },
+          {
+            "name": "color",
+            "value": "titanium grey"
+          },
+          {
+            "name": "screen_size",
+            "value": "6.7-inch"
+          },
+          {
+            "name": "display",
+            "value": "IPS LCD"
+          },
+          {
+            "name": "bluetooth",
+            "value": "true"
+          },
+          {
+            "name": "ram",
+            "value": "4GB"
+          },
+          {
+            "name": "front_camera",
+            "value": "8 MP"
+          },
+          {
+            "name": "rear_camera",
+            "value": "dual rear cameras"
+          },
+          {
+            "name": "network",
+            "value": "4G"
+          },
+          {
+            "name": "charger",
+            "value": "2-pin"
+          },
+          {
+            "name": "video",
+            "value": "1080p"
+          }
+        ],
+        "price": {
+          "min": null,
+          "max": null,
+          "currency": null
+        },
+        "services": []
+      }
+    ],
+    "global_constraints": {
+      "same_shop_required": true,
+      "budget": {
+        "max": 35722,
+        "currency": "PHP"
+      },
+      "voucher": {
+        "type": "fixed",
+        "min_spend": 34801,
+        "discount_value": 5179,
+        "discount_cap": null,
+        "scope": "same_shop"
+      }
+    }
+  }
+}
